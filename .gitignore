@@ -22,3 +22,11 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+*.aux
+*.log
+*.out
+*.pdf
+*.bbl
+*.blg
+*.toc
+*.synctex.gz
