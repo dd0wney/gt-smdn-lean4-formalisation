@@ -30,3 +30,6 @@ venv/
 *.blg
 *.toc
 *.synctex.gz
+
+# LaTeX source files (paper drafts)
+*.tex
