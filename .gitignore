@@ -1,0 +1,24 @@
+# Lean build artifacts
+.lake/
+build/
+*.olean
+*.ilean
+*.c
+*.o
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+build.log
+
+# Python (if any scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/

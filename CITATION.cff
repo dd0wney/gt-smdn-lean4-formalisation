@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this formalisation in your research, please cite it as below."
+title: "GT-SMDN Framework: Lean 4 Formal Verification"
+abstract: "Formal verification of the GT-SMDN (Game Theoretic Semi-Markov Chain Decision Networks) cybersecurity framework in Lean 4. Includes 90 formalised statements (45 theorems, 45 axioms) with 34 complete proofs covering risk metrics, game theory, priority flow architecture, and cascade probability. Verifies mathematical foundations from 'Protecting Critical Infrastructure' by Darragh Downey."
+authors:
+  - family-names: Downey
+    given-names: Darragh
+    orcid: "https://orcid.org/0009-0003-8642-8592"
+type: software
+repository-code: "https://github.com/dd0wney/gt-smdn-lean4-formalisation"
+url: "https://github.com/dd0wney/gt-smdn-lean4-formalisation"
+keywords:
+  - formal verification
+  - theorem proving
+  - Lean 4
+  - cybersecurity
+  - critical infrastructure
+  - game theory
+  - semi-Markov chains
+  - risk assessment
+  - betweenness centrality
+  - attack graphs
+license: Apache-2.0
+version: 1.0.0
+date-released: 2025-01-17
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Downey
+      given-names: Darragh
+      orcid: "https://orcid.org/0009-0003-8642-8592"
+  title: "Formal Verification of the GT-SMDN Cybersecurity Framework in Lean 4"
+  year: 2025
+  journal: "arXiv preprint"
+  # Add DOI/URL once published on arXiv
+
+references:
+  - type: book
+    authors:
+      - family-names: Downey
+        given-names: Darragh
+        orcid: "https://orcid.org/0009-0003-8642-8592"
+    title: "Protecting Critical Infrastructure: A Game-Theoretic Approach to Security"
+    year: 2025
+    url: "https://amzn.asia/d/h8uYGxZ"
+    # Available on Amazon and Apple Books:
+    # Amazon: https://amzn.asia/d/h8uYGxZ
+    # Apple Books: http://books.apple.com/us/book/id6754269990
+    # ISBN and publisher details (add if available):
+    # isbn: "XXX-X-XXX-XXXXX-X"
+    # publisher:
+    #   name: "Publisher Name"
